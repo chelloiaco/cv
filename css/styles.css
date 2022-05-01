@@ -1,0 +1,39 @@
+body {
+    background-color: darkslategray;
+    font-family: Arial, sans-serif;
+    color: #beccd5;
+}
+
+h1, h3 {
+    color: #a4d7aa;
+}
+
+
+p {
+    width: 80%;
+    max-width: 800px;
+}
+
+a:link {
+    color: #a4d7aa;
+}
+
+a:visited {
+    color: #53985d;
+}
+
+hr {
+    color: #446d6e;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 10%;
+}
+
+table {
+    border-spacing: 10px;
+}
+
+th {
+    text-align: left;
+}
